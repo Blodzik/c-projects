@@ -1,0 +1,3 @@
+/Users/nazartsokalo/Desktop/c++ projects/zarzadzaniePamiecia/cmake-build-debug/CMakeFiles/zarzadzaniePamiecia.dir
+/Users/nazartsokalo/Desktop/c++ projects/zarzadzaniePamiecia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazartsokalo/Desktop/c++ projects/zarzadzaniePamiecia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
