@@ -1,0 +1,3 @@
+/Users/nazartsokalo/Desktop/c++ projects/structFstream/cmake-build-debug/CMakeFiles/structFstream.dir
+/Users/nazartsokalo/Desktop/c++ projects/structFstream/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazartsokalo/Desktop/c++ projects/structFstream/cmake-build-debug/CMakeFiles/rebuild_cache.dir
