@@ -1,0 +1,3 @@
+/Users/nazartsokalo/Desktop/c++ projects/listaJednoKierunkowa/cmake-build-debug/CMakeFiles/listaJednoKierunkowa.dir
+/Users/nazartsokalo/Desktop/c++ projects/listaJednoKierunkowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazartsokalo/Desktop/c++ projects/listaJednoKierunkowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
